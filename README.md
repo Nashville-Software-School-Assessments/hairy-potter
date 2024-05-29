@@ -127,7 +127,7 @@ Your next task is to create HTML representations of the pottery you want to sell
 
 In the `main.js` module, invoke the `PotteryList` component function. Take its return value and update the inner HTML of the article element you created above. When you start your web server, you should see your non-cracked pottery list appear (_example below_).
 
-![example output](./images/pottery.png)
+![example output](./src/images/pottery.png)
 
 **THEN PUSH YOUR CODE TO GITHUB**
 
