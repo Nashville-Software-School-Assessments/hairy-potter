@@ -8,7 +8,7 @@ In this exercise, your task to build a workflow for making, and firing pottery, 
 
 1. Open your terminal and `cd` to your workspace directory.
 1. Clone this project.
-1. Once the project is cloned, `cd the-hairy-potter` and then run `npm install`.
+1. Once the project is cloned, `cd hairy-potter` and then run `npm install`.
 1. Once the installations are complete, run the `npm run test` command (_see animation below_). You will see all of the tests for your code - which ones pass, and which ones fail. As soon as you make changes to your code, the tests will run automatically, so keep this terminal window open while you are working on this project. When you need to stop working on it, use the `Ctrl+C` keyboard shortcut to stop the tests from running.
     ![](./jest-initial.gif)
 
