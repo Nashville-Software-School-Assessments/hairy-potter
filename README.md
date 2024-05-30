@@ -6,31 +6,14 @@ In this project, your task to build a workflow for making, and firing pottery, a
 
 ## Setup
 
-1. Open a new terminal window, copy pasta the following command into the terminal and hit enter to run it. It will create a basic file structure for you and create some starter code in the `~/workspace/hairy-potter-project` directory.
-
-   ```sh
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nashville-software-school/course-bash-scripts/main/client/hairy-potter.sh)"
-   ```
-
-1. Navigate to the project directory
-   ```sh
-   cd ~/workspace/hairy-potter-project
-   ```
-1. Create a Github repository for this project and run the use the suggested `git remote add origin` command to connect your local repository with the Github repository. The setup script runs `git init` for you.
-1. Open the project for editing with the `code .` command.
-1. Run the following command in your terminal. This is the directory where all of your code will be written.
-
-   ```sh
-   cd src
-   ```
+```sh
+cd hairy-potter
+cd src
+code .
+```
 
 1. Run the `serve` command to start the web server.
 1. Open the URL provided by `serve` in your browser.
-1. Open another new terminal session _(yes, there will be two terminal sessions needed for this project)_ and make sure you are in the the `hairy-potter-project` directory and not in the `src` sub-directory.
-
-   ```sh
-   cd ~/workspace/hairy-potter-project
-   ```
 
 ## Requirements
 
