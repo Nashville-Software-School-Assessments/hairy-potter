@@ -72,7 +72,7 @@ To check your work, make sure that at least one of your pieces of pottery is fir
 1. If the piece of pottery is cracked, do not add a `price` property to it.
 1. If the pottery is **not** cracked, add the object to the module-level array of items to be sold.
 1. Return the augmented object.
-1. Define and export a function named `usePottery` returns a copy of the array of items to be sold. Recall which array method creates a copy of the array.
+1. Define and export a function named `usePottery` returns a copy of the array of items to be sold. Recall which global javascript function creates a deep copy of values.
 
 #### Checking Your Work
 
